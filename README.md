@@ -1,4 +1,4 @@
-# AutoThumb - AI Thumbnail Generator
+# AutoThumb - AI 
 
 AutoThumb is a web application that automatically creates visually appealing thumbnails using generative AI based on minimal user prompts. The platform integrates Google Gemini GenAI API for prompt-based content creation, offering a seamless and creative experience.
 
